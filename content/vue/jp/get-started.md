@@ -1,13 +1,14 @@
 ---
-title: "Get started"
-tocTitle: "Get started"
-description: "Setup Vue Storybook in your development environment"
+title: "はじめに"
+tocTitle: "はじめに"
+description: "開発環境で Vue Storybook を構築します。"
 commit: d1c4858
 ---
 
-# Storybook for Vue tutorial
+# Vue 向けの Storybook チュートリアル
 
-Storybook runs alongside your app in development mode. It helps you build UI components isolated from the business logic and context of your app. This edition of Learn Storybook is for Vue; other editions exist for [React](/react/en/get-started) and [Angular](/angular/en/get-started).
+Storybook は開発モードでアプリと並行して実行されます。 Storybook runs alongside your app in development mode.
+アプリケーションのビジネスロジックやコンテキストから分離されたUIコンポーネントを構築するのに役立ちます。 It helps you build UI components isolated from the business logic and context of your app. この Learn Storybook は Vue 向けのものです。 Vue 以外では、[React](/react/en/get-started) と [Angular](/angular/en/get-started) があります。  This edition of Learn Storybook is for Vue; other editions exist for [React](/react/en/get-started) and [Angular](/angular/en/get-started).
 
 ![Storybook and your app](/storybook-relationship.jpg)
 
